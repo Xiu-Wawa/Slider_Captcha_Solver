@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs and debug files
+*.log
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Selenium driver cache
+chromedriver.log
+
+# Temp and backup files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.~*
+
+# Build files
+build/
+dist/
+*.egg-info/
